@@ -1,9 +1,9 @@
 {
   "database": {
     "default": {
-      "host": "localhost",
-      "port": 27017,
-      "name": "local",
+      "host": "ds019976.mlab.com",
+      "port": 19976,
+      "name": "mlab",
       "username": "",
       "password": ""
     }
